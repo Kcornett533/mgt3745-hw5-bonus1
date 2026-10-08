@@ -1,1 +1,12 @@
-
+{
+  "name": "mgt3745-hw5-bonus",
+  "version": "1.0.0",
+  "description": "Express-based analytics gateway service for MGT 3745 HW5 Bonus",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
