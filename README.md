@@ -30,7 +30,6 @@ flowchart LR
     H -->|201 Created| B
     H -->|400 Bad Request| I[Display UI error message]
     B -->|Network failure| I
-    
 ## Status
 * **Build & Test Status**: Operational & Passing
 * **Cloudflare Worker API**: Deployed to Production
